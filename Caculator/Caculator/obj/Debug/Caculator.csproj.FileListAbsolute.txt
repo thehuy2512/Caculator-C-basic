@@ -1,0 +1,10 @@
+D:\HK1_Năm4\.NET_framework\Caculator\Caculator\bin\Debug\Caculator.exe.config
+D:\HK1_Năm4\.NET_framework\Caculator\Caculator\bin\Debug\Caculator.exe
+D:\HK1_Năm4\.NET_framework\Caculator\Caculator\bin\Debug\Caculator.pdb
+D:\HK1_Năm4\.NET_framework\Caculator\Caculator\obj\Debug\Caculator.csproj.AssemblyReference.cache
+D:\HK1_Năm4\.NET_framework\Caculator\Caculator\obj\Debug\Caculator.Form1.resources
+D:\HK1_Năm4\.NET_framework\Caculator\Caculator\obj\Debug\Caculator.Properties.Resources.resources
+D:\HK1_Năm4\.NET_framework\Caculator\Caculator\obj\Debug\Caculator.csproj.GenerateResource.cache
+D:\HK1_Năm4\.NET_framework\Caculator\Caculator\obj\Debug\Caculator.csproj.CoreCompileInputs.cache
+D:\HK1_Năm4\.NET_framework\Caculator\Caculator\obj\Debug\Caculator.exe
+D:\HK1_Năm4\.NET_framework\Caculator\Caculator\obj\Debug\Caculator.pdb
